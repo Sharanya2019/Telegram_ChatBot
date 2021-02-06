@@ -13,4 +13,10 @@
 
 4. Pictures/memes are displayed based on the public apis given in the code
  
-5. <img src="pic1.jpeg" width="300" height="10">
+5. Output screenshots:
+
+   <img src="pic1.jpeg" width="300" height="400">
+   
+   <img src="pic2.jpeg" width="300" height="400">
+   
+   <img src="pic3.jpeg" width="300" height="400">
