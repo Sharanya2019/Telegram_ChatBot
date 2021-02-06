@@ -12,3 +12,5 @@
 3. Type /hi command to start conversation with the chatbot.
 
 4. Pictures/memes are displayed based on the public apis given in the code
+ 
+5. <img src="pic1.jpeg" width="300" height="10">
