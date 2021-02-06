@@ -5,9 +5,9 @@
 
 2. Install required packages:
  
-    pip install requests
+    1. pip install requests
     
-    pip install python-telegram-bot
+    2. pip install python-telegram-bot
 
 3. Type /hi command to start conversation with the chatbot.
 
